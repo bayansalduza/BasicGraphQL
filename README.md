@@ -35,7 +35,7 @@ To run this project, ensure you have [.NET 8 SDK](https://dotnet.microsoft.com/d
 2. Access the endpoints:
 
    - **GraphQL Playground:** `http://localhost:5042/graphql`
-   - **Voyager UI:** `http://localhost:5042/graphql-voyager`
+   - **Voyager UI:** `https://localhost:7027/graphql`
 
 ---
 
